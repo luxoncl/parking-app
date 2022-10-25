@@ -1,0 +1,13 @@
+.garage{
+    display: flex;
+}
+
+.garage__contents{
+    background-color: black;
+    color: aqua;
+    border-radius: 15px;
+    width:300px;
+    padding:10px;
+    font-size: 10px;
+    margin: 50px;;
+}

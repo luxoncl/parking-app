@@ -1,0 +1,31 @@
+body{
+    background-color: aqua;
+}
+
+.input{
+    margin-top: 150px;
+    margin-right: 50px;
+    margin-left: 50px;
+    display:grid;
+    border-radius: 30px;
+    place-content: center;
+    background-color:black;
+    border: 12px;
+    height: 50vh;
+}
+.input__form{
+    color: aqua;
+    text-align: center;
+    font-family: cursive;
+    font-size: 25px;
+    background-color: black;
+    width: 500px;
+    border-radius: 15px;;
+    box-shadow:0 5px 6px rgba(9, 224, 236, 0.698)
+}
+.input__button{
+    font-size:20px;
+    background-color: aqua;
+  font-family: cursive;
+
+}

@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color:black;
+    color: aliceblue;
+    font-family: cursive;
+}
+.header > h1{
+    color: aliceblue;
+}

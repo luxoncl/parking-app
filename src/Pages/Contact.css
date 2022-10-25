@@ -1,0 +1,12 @@
+.contact{
+    background-color: black;
+    border-radius: 15px;
+    color:aqua;
+    width: auto;
+    height:auto;
+    display:grid;
+    justify-content: center;
+    margin:200px;
+    box-shadow:0 5px 6px rgba(23, 23, 200, 0.872)
+
+}
